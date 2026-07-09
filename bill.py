@@ -8,3 +8,4 @@ else:
     bill = (100 * 2) + (100 * 3) + ((units - 200) * 5)
 
 print("Total Electricity Bill = ", bill)
+#just to check lol
